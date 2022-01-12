@@ -1,3 +1,2 @@
-### Hi there 👋
 
 [![zJanny's GitHub stats](https://github-readme-stats.vercel.app/api?username=zJanny&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
